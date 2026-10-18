@@ -1,0 +1,1 @@
+{"name":"x-lunox","version":"1.0.0","private":true,"description":"Klon X/Twitter tanpa dependensi","main":"server.js","scripts":{"start":"node server.js","test":"node test/smoke.js"},"engines":{"node":">=18"}}
